@@ -1,0 +1,15 @@
+pyTelegramBotAPI
+httpx
+beautifulsoup4
+requests
+aiohttp
+ujson
+uvloop
+httpx
+tenacity
+loguru
+python-dotenv
+colorama
+beautifulsoup4
+pydantic
+
